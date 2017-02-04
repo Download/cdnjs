@@ -1,5 +1,7 @@
 # cdnjs Library Repository
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/cdnjs.svg)](https://greenkeeper.io/)
+
 Master branch build status:
 
 ﻿[![Circle CI](https://circleci.com/gh/cdnjs/cdnjs.svg?style=svg)](https://circleci.com/gh/cdnjs/cdnjs)

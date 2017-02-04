@@ -13,19 +13,19 @@
     "test": "vows"
   },
   "dependencies": {
-    "async": "~0.9",
-    "clean-css": "~3.2",
+    "async": "~2.1.4",
+    "clean-css": "~4.0.3",
     "execSync": "~1.0",
-    "fs-extra": "~0.18",
-    "glob": "~5",
-    "lodash": "~3.7",
-    "rss": "~1.1",
-    "superagent": "~0.21",
+    "fs-extra": "~2.0.0",
+    "glob": "~7.1.1",
+    "lodash": "~4.17.4",
+    "rss": "~1.2.2",
+    "superagent": "~3.4.1",
     "tarball-extract": "~0.0",
-    "uglify-js": "~2.4",
+    "uglify-js": "~2.7.5",
     "underscore": "~1",
-    "colors": "~1.0",
-    "is-there": "1.1.0"
+    "colors": "~1.1.2",
+    "is-there": "4.3.6"
   },
   "devDependencies": {
     "jslint": ">=0.8.1",
